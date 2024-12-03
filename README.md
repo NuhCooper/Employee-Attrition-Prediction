@@ -40,9 +40,9 @@ The dataset used for this project is from **IBM HR Analytics** and contains info
    
 2. **Set Up Environment**:
 
-  It is recommended to create a virtual environment to run the project:
-  python3 -m venv venv
-  source venv/bin/activate  # On Windows: venv\Scripts\activate
+    It is recommended to create a virtual environment to run the project:
+    python3 -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 
 3. **Install Dependencies**:
@@ -51,10 +51,10 @@ The dataset used for this project is from **IBM HR Analytics** and contains info
    pip install -r requirements.txt
 
 4. **Download Dataset**:
-
-  Download the dataset from Kaggle.
-  Save the dataset file (WA_Fn-UseC_-HR-Employee-Attrition.csv) to the data/ folder in this repository.
+  
+    Download the dataset from Kaggle.
+    Save the dataset file (WA_Fn-UseC_-HR-Employee-Attrition.csv) to the data/ folder in this repository.
 
 5. **Run the Jupyter Notebook**:
 
-  jupyter notebook Employee_Attrition_Prediction.ipynb
+    jupyter notebook Employee_Attrition_Prediction.ipynb
